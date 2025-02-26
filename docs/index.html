@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python Study</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <div class="logo">Python Study</div>
+        <button class="menu-toggle" onclick="toggleMenu()">☰</button>
+        <div class="menu-container">
+            <div class="menu">
+                <a href="basic.html">기본</a>
+                <a href="list.html">리스트</a>
+            </div>
+        </div>
+    </nav>
+
+    <div id="home" class="content">
+        <h1>Python Study</h1>
+        <p>파이썬 공부를 위한 기본 페이지입니다.</p>
+    </div>
+
+    <script>
+        function toggleMenu() {
+            const menu = document.querySelector('.menu');
+            if (window.innerWidth <= 768) {
+                menu.style.display = menu.style.display === 'flex' ? 'none' : 'flex';
+            }
+        }
+    </script>
+</body>
+</html>

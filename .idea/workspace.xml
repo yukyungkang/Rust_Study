@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e50c56e-725a-440d-b799-0588a88be205" name="변경" comment="홈페이지 만들기 2/25 오늘은 여기까지!!!" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yukyungkang&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yukyungkang/python_Study.git&quot;,
+    &quot;accountId&quot;: &quot;6d7a4a1c-dc9e-4ab8-a902-2fc5f9c2cf96&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2sAXNNJVOCHBWeXbidA4WrGi86s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Study01.executor": "Run",
+    "Python.True&False.executor": "Run",
+    "Python.basic.executor": "Run",
+    "Python.dictionary.executor": "Run",
+    "Python.for.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.if.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/yukyung.kang/python_Study/docs",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="basic" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_ Study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study_01" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study_01/basic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_ Study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study_01" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study_01/function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="2e50c56e-725a-440d-b799-0588a88be205" name="변경" comment="" />
+      <created>1737899311839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737899311839</updated>
+    </task>
+    <task id="LOCAL-00001" summary="파이썬 공부 시작">
+      <option name="closed" value="true" />
+      <created>1737900919547</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737900919548</updated>
+    </task>
+    <task id="LOCAL-00002" summary="파이썬 공부 시작">
+      <option name="closed" value="true" />
+      <created>1737901364292</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737901364292</updated>
+    </task>
+    <task id="LOCAL-00003" summary="파이썬 공부 시작">
+      <option name="closed" value="true" />
+      <created>1738304969703</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738304969703</updated>
+    </task>
+    <task id="LOCAL-00004" summary="파이썬 공부 시작">
+      <option name="closed" value="true" />
+      <created>1739413118461</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739413118461</updated>
+    </task>
+    <task id="LOCAL-00005" summary="한입 파이썬 강의 끝">
+      <option name="closed" value="true" />
+      <created>1740225310253</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740225310253</updated>
+    </task>
+    <task id="LOCAL-00006" summary="유기농냠냠파이썬 27강까지 정리&#10; + basic.py 내용 다듬">
+      <option name="closed" value="true" />
+      <created>1740387999267</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740387999267</updated>
+    </task>
+    <task id="LOCAL-00007" summary="수정 사항 반영">
+      <option name="closed" value="true" />
+      <created>1740473571384</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740473571384</updated>
+    </task>
+    <task id="LOCAL-00008" summary="홈페이지 만들어보기">
+      <option name="closed" value="true" />
+      <created>1740477090143</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740477090143</updated>
+    </task>
+    <task id="LOCAL-00009" summary="홈페이지 만들어보기 2번째">
+      <option name="closed" value="true" />
+      <created>1740477406966</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740477406966</updated>
+    </task>
+    <task id="LOCAL-00010" summary="홈페이지 만들어보기 2번째">
+      <option name="closed" value="true" />
+      <created>1740479625511</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740479625511</updated>
+    </task>
+    <task id="LOCAL-00011" summary="홈페이지 만들기 2/25 오늘은 여기까지!!!">
+      <option name="closed" value="true" />
+      <created>1740480192874</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740480192874</updated>
+    </task>
+    <task id="LOCAL-00012" summary="홈페이지 만들기 2/25 오늘은 여기까지!!!">
+      <option name="closed" value="true" />
+      <created>1740480480621</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740480480621</updated>
+    </task>
+    <task id="LOCAL-00013" summary="홈페이지 만들기 2/25 오늘은 여기까지!!!">
+      <option name="closed" value="true" />
+      <created>1740480548137</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1740480548137</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="파이썬 공부 시작" />
+    <MESSAGE value="한입 파이썬 강의 끝" />
+    <MESSAGE value="유기농냠냠파이썬 27강까지 정리&#10; + basic.py 내용 다듬" />
+    <MESSAGE value="유기농냠냠파이썬 30강까지 정리&#10; + 리스트 관련 내용 별도의 list.py로 만듬" />
+    <MESSAGE value="자동 커밋: 신규 수정" />
+    <MESSAGE value="자동 커밋: 변경 사항 반영" />
+    <MESSAGE value="정" />
+    <MESSAGE value="수정 사항 반영" />
+    <MESSAGE value="홈페이지 만들어보기" />
+    <MESSAGE value="홈페이지 만들어보기 2번째" />
+    <MESSAGE value="홈페이지 만들기 2/25 오늘은 여기까지!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="홈페이지 만들기 2/25 오늘은 여기까지!!!" />
+  </component>
+</project>
